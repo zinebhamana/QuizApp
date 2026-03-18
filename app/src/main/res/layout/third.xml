@@ -71,7 +71,7 @@
 
 
             <TextView
-                android:id="@+id/labelText"
+                android:id="@+id/labelText2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Please enter your name "
@@ -88,7 +88,6 @@
                 android:hint="Your name"
                 android:textColor="@android:color/black"
                 android:textColorHint="#888"
-                android:cornerRadius="20dp"
                 android:background="@drawable/edittext"
                 android:padding="12dp"
                 android:layout_marginTop="10dp"
